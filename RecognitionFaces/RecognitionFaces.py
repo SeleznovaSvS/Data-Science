@@ -33,7 +33,7 @@ len(malepath), len(femalepath)
 
 
 # one image
-path = malepath[7]
+path = malepath[0]
 img = cv2.imread(path)
 
 
